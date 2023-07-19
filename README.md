@@ -15,7 +15,6 @@ Task 2: Generate Summary Statistics
 - Created a DataFrame containing summary statistics.
 - Calculated mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 - The drug regimen names were set as the index column in the DataFrame.
-![image](https://github.com/Savina-B/Matplotlib-challenge/assets/130323046/2b548757-cef0-4e73-9cb7-6fb4fe0207cd)
 
 Task 3: Create Bar Charts and Pie Charts
 - Generated two identical bar charts to show the total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
