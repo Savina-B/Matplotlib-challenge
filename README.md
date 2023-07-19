@@ -25,7 +25,6 @@ Task 3: Create Bar Charts and Pie Charts
 - Developed the first pie chart using the Pandas DataFrame.plot() method.
 - Constructed the second pie chart using Matplotlib's pyplot methods.
 ![image](https://github.com/Savina-B/Matplotlib-challenge/assets/130323046/a0262cff-dd6e-472f-b7e6-48ec4eef2244)
-![image](https://github.com/Savina-B/Matplotlib-challenge/assets/130323046/5b7a5796-2fcd-4d8b-a22f-2dc174fd929e)
 
 Task 4: Calculate Quartiles, Find Outliers, and Create a Box Plot
 - Calculated the final tumor volume of each mouse for four promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin.
